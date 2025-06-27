@@ -1,5 +1,4 @@
--- Digunakan kalau database inventaris_db SUDAH ADA
-USE inventaris_db;
+-- Tidak perlu USE jika sudah memilih database di phpMyAdmin
 
 -- Tabel admins
 CREATE TABLE IF NOT EXISTS admins (

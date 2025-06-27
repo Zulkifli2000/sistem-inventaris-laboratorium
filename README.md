@@ -12,53 +12,6 @@ Aplikasi berbasis web untuk manajemen inventaris barang di laboratorium komputer
 
 ---
 
-## 📁 Struktur Folder
-
-inventaris_app/
-│
-├── includes/
-│ └── navbar.php
-│
-├── pages/
-│ ├── admin/
-│ │ ├── inventaris.php
-│ │ ├── tambah_inventaris.php
-│ │ ├── edit_inventaris.php
-│ │ ├── hapus_inventaris.php
-│ │ ├── profile.php
-│ │ └── user.php
-│ │
-│ ├── riwayat/
-│ │ ├── riwayat.php
-│ │ ├── tambah_riwayat.php
-│ │ ├── edit_riwayat.php
-│ │ └── hapus_riwayat.php
-│ │
-│ ├── index.php
-│ ├── login.php
-│ ├── logout.php
-│ └── register.php
-│
-├── screenshots/
-│ ├── dashboard.png
-│ ├── inventaris.png
-│ ├── login.png
-│ ├── profile.png
-│ ├── register.png
-│ ├── riwayat.png
-│ ├── tambah_inventaris.png
-│ └── tambah_riwayat.png
-│
-├── sql/
-│ └── database_tables_only.sql
-│
-├── auth.php
-├── db.php
-├── .gitignore
-└── README.md
-
----
-
 ## 📸 Tampilan Aplikasi
 
 ### 🔐 Login  
@@ -110,6 +63,12 @@ akan otomatis kembali ke halaman login ketika user mengklik
 - Bootstrap 5
 - HTML5 & CSS3
 - XAMPP (Local Development)
+
+---
+
+## 🌐 Hosting Online
+Proyek ini dihosting di:
+🔗 [https://inventarislabzada.wuaze.com]
 
 ---
 
