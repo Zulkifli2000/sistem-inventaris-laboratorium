@@ -6,8 +6,6 @@
     <div class="navbar-nav">
       <a class="nav-link" href="/pages/manajemen/inventaris.php">Inventaris</a>
       <a class="nav-link" href="/pages/riwayat/riwayat.php">Riwayat</a>
-      <a class="nav-link" href="/pages/manajemen/tambah_inventaris.php">Tambah Inventaris</a>
-      <a class="nav-link" href="/pages/riwayat/tambah_riwayat.php">Tambah Riwayat</a>
       <a class="nav-link" href="/pages/manajemen/profile.php">Profile</a>
       <a class="nav-link" href="/pages/logout.php">Logout</a>
     </div>
